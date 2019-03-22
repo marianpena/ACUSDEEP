@@ -10,7 +10,7 @@ main:
     url: /group/    
         
   - title: "News"
-    url: /year-archive/
+    url: /posts/#year-archive
     
   - title: "Cv"
     url: /cv/
