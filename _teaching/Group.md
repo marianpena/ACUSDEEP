@@ -1,10 +1,10 @@
 ---
 title: "Group"
-collection: teaching
-type: "Undergraduate course"
+collection: Group
+type: " "
 permalink: /teaching/Group
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Instituto Español de Oceanografía"
+date: 
 location: "City, Country"
 ---
 
@@ -16,5 +16,4 @@ Marian Peña
 Airam Sarmiento
 ======
 
-Heading 3
-======
+
