@@ -1,6 +1,6 @@
 ---
 title: "Group"
-collection: Group
+collection: group
 type: " "
 permalink: /group/Group
 venue: "Instituto Español de Oceanografía"
