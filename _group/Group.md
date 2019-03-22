@@ -4,7 +4,7 @@ collection: group
 type: " "
 permalink: /group/Group
 venue: "Instituto Español de Oceanografía"
-date: 
+date: " "
 location: "City, Country"
 ---
 
