@@ -6,12 +6,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Group"
+    url: /group/    
         
-  - title: "Blog Posts"
+  - title: "Newss"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Cv"
     url: /cv/
     
