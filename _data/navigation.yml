@@ -9,7 +9,7 @@ main:
   - title: "Group"
     url: /group/    
         
-  - title: "Newss"
+  - title: "News"
     url: /year-archive/
     
   - title: "Cv"
