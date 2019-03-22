@@ -2,7 +2,7 @@
 title: "Group"
 collection: Group
 type: " "
-permalink: /teaching/Group
+permalink: /group/Group
 venue: "Instituto Español de Oceanografía"
 date: 
 location: "City, Country"
