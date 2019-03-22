@@ -56,7 +56,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter 
 facebook:
-  username               : 
+  username               : &facebook
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "https://www.facebook.com/ACUSDEEP"
   foursquare       :
   github           : 
   google_plus      :
