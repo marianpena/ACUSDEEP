@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+Fish and plankton acoustics groups at IEO Baleares
 
-Lorem ipsum.
+Mesopelagic and Bathypelagic realm.
+Machine learning.
