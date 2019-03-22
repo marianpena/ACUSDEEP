@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ACUSDEEP GROUP"
-excerpt: "About me"
+excerpt: "ACUSDEEP GROUP"
 author_profile: true
 redirect_from: 
   - /about/
