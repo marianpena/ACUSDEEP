@@ -12,6 +12,6 @@ main:
   - title: "News"
     url: /posts/
     
-  - title: "Cv"
-    url: /cv/
+ # - title: "Cv" # lo quito de momento
+  #  url: /cv/
     
