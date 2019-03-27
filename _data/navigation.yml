@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "Publications"
-    url: publications/
+    url: /publications/
 
   - title: "Talks"
-    url: talks/    
+    url: /talks/    
 
   - title: "Group"
-    url: group/    
+    url: /group/    
         
   - title: "News"
-    url: posts/
+    url: /posts/
     
   - title: "Cv"
-    url: cv/
+    url: /cv/
     
