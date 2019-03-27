@@ -6,7 +6,7 @@ venue: "Journal of Marine Systems"
 excerpt: ' '
 date: 2018-01-02
 paperDOI: 
-citation: 'Peña et al.(2015). "Opportunistic acoustic recordings of (potential) orangeback flying squid Sthenoteuthis pteropus in the Central Eastern Atlantic." <i>Journal 1</i>. 200, 49-60.'
+citation: 'Peña et al.(2015). "Opportunistic acoustic recordings of (potential) orangeback flying squid Sthenoteuthis pteropus in the Central Eastern Atlantic." <i>Journal of Marine Systems</i>. 200, 49-60.'
 ---
 
 ## Abstract
