@@ -13,11 +13,17 @@ redirect_from:
 
 
 
+
+
+
 Current projects
 ======
 
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
 ------
+
+REMEDIOS
+----
 
 
 BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA (Bathypelagic) CTM2016-78853-R. 
@@ -29,6 +35,9 @@ JUVENA Juvenile anchovy survey in the Bay of Biscay
 SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya): estructura Y rutas del carbono biogenico (CTM2013-45089-R)
 ------
 
+
+QUIETMED: A joint programme on underwater noise (D11) for the implementation of the Second Cycle of the MSFD in the Mediterranean Sea
+------
 
 
 Previous projects
@@ -47,17 +56,15 @@ Previous projects
  * PELASSES: Direct abundance estimation and distribution of pelagic species in North East Atlantic Waters. Improving acoustic and daily egg production   methods for sardine and anchovy
 
  * SIGNOISE: Intercalibración acústica de dos buques oceanográficos en el Golfo de Cádiz
-<br/>
  * SIMFAMI: Species Identification Methods From Acoustic Multi-frecuency Information).
-<br/>
  * ARGELIA 2003: Evaluación de pequeños pelágicos en aguas Argelinas      
-<br/>
+
  * SARDYN: Sardine Dynamics And Stock Structure In The North-east Atlantic.  
-<br/>
+
  * ECOANCHOA, Gobiernos del Pais Vasco, Cantabria, Asturias y Galicia.  
-           <br/>
+
  * UNCOVER: UNderstanding the mechanism of stock recovery.
-              <br/>
+
  * PELAGICOS 
 
  * Acousmed: Harmonisation of the acoustic data in the Mediterranean 2002-2006.
