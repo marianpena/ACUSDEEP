@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-CURRENT
+
+
+
+Current projects
 ======
 
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
@@ -28,7 +31,7 @@ SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya)
 
 
 
-FINISHED
+Previous projects
 ======
  
  * Aplicación de ANN supervisadas y no supervisadas a los datos acústicos (2008)
