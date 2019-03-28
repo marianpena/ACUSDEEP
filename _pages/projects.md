@@ -23,7 +23,7 @@ redirect_from:
 
 ```diff
 + Current projects
-+ ======
+- ======
 ```
 # --------------------
 
