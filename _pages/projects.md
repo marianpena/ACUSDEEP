@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PROJECTS
-======
+
 
 CURRENT
 ======
@@ -18,18 +17,16 @@ DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <
 ------
 
 
-BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA (Bathypelagic) CTM2016-78853-R& Ministerio de
-------
-Economía y Competitividad del Gobierno de España
+BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA (Bathypelagic) CTM2016-78853-R. 
 ------
 
 JUVENA Juvenile anchovy survey in the Bay of Biscay
 ------
 
- SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya): estructura Y rutas del carbono
- ------
- biogenico (CTM2013-45089-R)
- ------
+SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya): estructura Y rutas del carbono biogenico (CTM2013-45089-R)
+------
+
+
 
 FINISHED
 ======
