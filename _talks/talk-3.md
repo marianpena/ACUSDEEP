@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "University 1, Department"
-date:
+date:2014-03-01
 location: "Los Angeles, CA"
 ---
 
