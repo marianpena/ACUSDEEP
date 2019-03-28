@@ -1,14 +1,14 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
 collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+type: "Conference proceedings talk"
+permalink: /talks/2014-03-01-talk-3
 venue: "University 1, Department"
-date: 2014-02-01
-location: "London, UK"
+date:2014-03-01
+location: "Los Angeles, CA"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+ 
 
 Headings
 ======
