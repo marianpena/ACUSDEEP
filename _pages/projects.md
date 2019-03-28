@@ -43,38 +43,38 @@ FINISHED
  * APEMED: Estimación de índices de abundancia y variabilidad de poblaciones de pequeños pelágicos. Campaña de prospección acústica ECOMED.
 
  * PELMED: Evaluación de los recursos pelágicos del Mediterráneo español
- <br/>
+
  * PELASSES: Direct abundance estimation and distribution of pelagic species in North East Atlantic Waters. Improving acoustic and daily egg production   methods for sardine and anchovy
+
+ * SIGNOISE: Intercalibración acústica de dos buques oceanográficos en el Golfo de Cádiz
 <br/>
-* SIGNOISE: Intercalibración acústica de dos buques oceanográficos en el Golfo de Cádiz
+ * SIMFAMI: Species Identification Methods From Acoustic Multi-frecuency Information).
 <br/>
-* SIMFAMI: Species Identification Methods From Acoustic Multi-frecuency Information).
+ * ARGELIA 2003: Evaluación de pequeños pelágicos en aguas Argelinas      
 <br/>
-* ARGELIA 2003: Evaluación de pequeños pelágicos en aguas Argelinas      
-<br/>
-* SARDYN: Sardine Dynamics And Stock Structure In The North-east Atlantic.  
+ * SARDYN: Sardine Dynamics And Stock Structure In The North-east Atlantic.  
 <br/>
  * ECOANCHOA, Gobiernos del Pais Vasco, Cantabria, Asturias y Galicia.  
            <br/>
-* UNCOVER: UNderstanding the mechanism of stock recovery.
+ * UNCOVER: UNderstanding the mechanism of stock recovery.
               <br/>
-* PELAGICOS 
+ * PELAGICOS 
 
-* Acousmed: Harmonisation of the acoustic data in the Mediterranean 2002-2006.
+ * Acousmed: Harmonisation of the acoustic data in the Mediterranean 2002-2006.
               <br/>
-* DETAC: Desarrollo de Técnicas Acústicas para aplicación a pesquerías de pelágicos y otras especies marinas.
+ * DETAC: Desarrollo de Técnicas Acústicas para aplicación a pesquerías de pelágicos y otras especies marinas.
             <br/>
-* DETAC II: Desarrollo de Técnicas Acústicas para aplicación a pesquerías de pelágicos y otras especies marinas.
+ * DETAC II: Desarrollo de Técnicas Acústicas para aplicación a pesquerías de pelágicos y otras especies marinas.
                            <br/>
-* PELCOSAT:Biología y dinámica poblacional de las especies de pequeños
+ * PELCOSAT:Biología y dinámica poblacional de las especies de pequeños
 pelágicos costeros del Golfo de Cádiz
 (Subdivisión IXa ICES), con especial énfasis en el boquerón (Engraulis encrasicolus L. 1758)
                             <br/>
-* IDEADOS: Estructura y dinámica del ecosistema bentopelágico de talud
+ * IDEADOS: Estructura y dinámica del ecosistema bentopelágico de talud
 en dos zonas oligotróficas del Mediterráneo occidental: una
 aproximación multidisciplinar y a distintas escalas temporales en
 las Islas Baleares.
- <br/>
+
   
 * BALEARES: Ecología larvaria y procesos de reclutamiento de
 crustáceos decápodos, cefalópodos y peces teleósteos en el Mar
