@@ -23,7 +23,7 @@ redirect_from:
 Current projects
 ======
 
-# 
+# ---
 
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
 ------
