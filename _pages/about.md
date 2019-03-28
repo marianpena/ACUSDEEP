@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# Fish and plankton acoustics groups at IEO Baleares
-# Main lines of research
+## Fish and plankton acoustics groups at IEO Baleares
+## Main lines of research
 
   * Mesopelagic and Bathypelagic realm.
   * Machine learning techniques.
