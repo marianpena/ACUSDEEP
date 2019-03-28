@@ -32,7 +32,7 @@ DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <
 ----
 
 
-BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA (Bathypelagic) CTM2016-78853-R. 
+Bathypelagic: BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA 
 ------
 
 JUVENA Juvenile anchovy survey in the Bay of Biscay
