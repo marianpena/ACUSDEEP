@@ -26,7 +26,7 @@ Current projects
 ```
 ======
 
-# --------------------
+# ---------------------------------
 
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
 ------
@@ -55,7 +55,7 @@ QUIETMED: A joint programme on underwater noise (D11) for the implementation of 
 Previous projects
 ======
 
-# --------------------
+# ---------------------------------
  
  * Aplicación de ANN supervisadas y no supervisadas a los datos acústicos (2008)
  * Equipamiento para el procesado de datos de la multihaz ME70 a bordo del Margalef (IEOC13-4E-1737) 
