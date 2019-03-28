@@ -26,7 +26,7 @@ Current projects
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
 ------
 
-REMEDIOS
+[REMEDIOS](http://proyectoremedios.com/inicio/): RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS"
 ----
 
 
@@ -56,7 +56,6 @@ Previous projects
  * APEMED: Estimación de índices de abundancia y variabilidad de poblaciones de pequeños pelágicos. Campaña de prospección acústica ECOMED.
  * PELMED: Evaluación de los recursos pelágicos del Mediterráneo español
  * PELASSES: Direct abundance estimation and distribution of pelagic species in North East Atlantic Waters. Improving acoustic and daily egg production   methods for sardine and anchovy
-
  * SIGNOISE: Intercalibración acústica de dos buques oceanográficos en el Golfo de Cádiz
  * SIMFAMI: Species Identification Methods From Acoustic Multi-frecuency Information).
  * ARGELIA 2003: Evaluación de pequeños pelágicos en aguas Argelinas      
