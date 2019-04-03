@@ -22,6 +22,12 @@ Palabras clave: zonas mesopelágica y batipelágica, mictófidos, krill, migraci
   * Machine learning techniques.
   * ...
 
+Estudio de peces mesopelágicos (mictófidos, ciclotones, peces hacha, etc.) por métodos acústicos.
+Estudio de especies tipo fluid-like (eufausiáceos, cefalópodos, etc.) por métodos acústicos.
+Relación entre las masas de agua y las capas acústicas.
+Flujo activo del carbono en el océano.
+Análisis de impacto del cambio climático en el océano.
+
 
 Desarrollo de la técnica acústica para el estudio de las especies meso y batipelágicas.
 Aplicación de técnicas de machine learning a la acústica submarina: limpieza de ecogramas, estimación de ruidos submarinos, clustering, identificación de grupos acústicos, etc.
