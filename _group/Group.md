@@ -17,6 +17,7 @@ Marián Peña Sáenz
 
   * Beatriz Sobradillo (AZTI)
   * Airam Sarmiento (ULPGC, FPI adscrita al COB)
+    PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la     bomba biológica.’
 
 # Collaborations
 
