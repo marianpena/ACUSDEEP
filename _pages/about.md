@@ -1,4 +1,5 @@
 ---
+meter fotos
 permalink: /
 title: "ACUSDEEP GROUP"
 excerpt: "ACUSDEEP GROUP"
@@ -13,28 +14,22 @@ redirect_from:
 
 "One of the more serious constraints in fisheries acoustics is that innovation has been suppressed in favor of standardization." (Holliday and Pieper, 1995).
 
-El objetivo principal del grupo ACUSDEEP es generar conocimiento sobre los desconocidos hábitats pelágicos de las zonas mesopelágica (200-1000 metros) y batipelágica (>1000 metros) por métodos acústicos. Para ellos es necesario salir de la estandarización comúnmente aplicada a la evaluación de stocks de especies comerciales y emplear metodologías y equipos nuevos. Analizar estas zonas profundas requiere desarrollar nuevos procedimientos de tratamiento de datos con la ayuda de técnicas de machine learning y la incorporación de los equipos acústicos más punteros. El avance en el conocimiento de estas comunidades implicadas en el transporte activo del carbono y, por tanto, de alta relevancia para la lucha contra el cambio climático conlleva asimismo la combinación de métodos acústicos activos y pasivos para, entre otros, estimar el ruido ambiental, que es uno de los descriptores de la Estrategia Marina para la conservación de nuestros mares.
-Palabras clave: zonas mesopelágica y batipelágica, mictófidos, krill, migraciones, ruido ambiental, signal processing, machine learning
+the main objective of the acoustic group ACUSDEEP is to generate knowledge about the unknow mesopelagic (200-1000 m) and bathypelagic (1000-2000 m)  habitats by means of acoustic techniques. The development of new equipment and processing techniques open new areas of research that allow us to study these challenging species. The relevant implication of these species in the biological pump, trasporting carbon from the ocean surface to deep waters and the imminent creation of new fisheries based on some of them have increased the number of scientific projects targetting them exponentially. 
+
+Keywords: mesopelagic, bathypelagic, Myctophidae, Cyclothone spp, krill, decapods, migration, noise, acoustic masking, signal processing, machine learning
 
 ## Main lines of research
 
-  * Mesopelagic and Bathypelagic realm.
-  * Machine learning techniques.
-  * ...
+  * Main species: Myctophidae, Stomiiforms, Sternoptychidae, Euphasiids, Decapoda...
+  * Development of acoustic processing algorithms for denoising, identification, behaviour inference and quantification of marine           organisms
+  * New acoustic equipment: ME70, EK80, AZFP
+  * Disentangling of meso and bathypelagic scattering layers.
+  * Geographical and vertical distributions. Water masses influences.
+  * Behavioural studies: Migration, orientation, day-night and seasonal and inter-annual variations.
+  * Biological pump
+  * Active-passive acoustics
 
-Estudio de peces mesopelágicos (mictófidos, ciclotones, peces hacha, etc.) por métodos acústicos.
-Estudio de especies tipo fluid-like (eufausiáceos, cefalópodos, etc.) por métodos acústicos.
-Relación entre las masas de agua y las capas acústicas.
-Flujo activo del carbono en el océano.
-Análisis de impacto del cambio climático en el océano.
 
 
-Desarrollo de la técnica acústica para el estudio de las especies meso y batipelágicas.
-Aplicación de técnicas de machine learning a la acústica submarina: limpieza de ecogramas, estimación de ruidos submarinos, clustering, identificación de grupos acústicos, etc.
-Distribución espacio-temporal. Ciclos estacionales e interanuales: series de tiempo.
-Implementación de nuevos equipos acústicos: multihaz ME70, EK80 broadband, perfiladores acústicos profundos.
-Distribución horizontal y vertical en el Mediterráneo Occidental y en el Atlántico.
-Aplicación de redes neuronales en investigación oceanográfica: acústica submarina, larvas de decápodos, etc.
-Desarrollo de técnica acústica pasiva-activa para el estudio de las especies meso y batipelágicas.
 
-meter fotos
+
