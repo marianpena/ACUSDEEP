@@ -1,5 +1,4 @@
 ---
-meter fotos
 permalink: /
 title: "ACUSDEEP GROUP"
 excerpt: "ACUSDEEP GROUP"
