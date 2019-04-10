@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## Fish and plankton acoustics groups at IEO Baleares (ACUSDEEP)
+## Fish and plankton acoustics group at IEO Baleares (ACUSDEEP)
 
 "One of the more serious constraints in fisheries acoustics is that innovation has been suppressed in favor of standardization." (Holliday and Pieper, 1995).
 
