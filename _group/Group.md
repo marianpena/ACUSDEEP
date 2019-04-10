@@ -10,7 +10,7 @@ venue: "Instituto Español de Oceanografía"
 
 # Principal researcher
 
-Marián Peña Sáenz
+Marián Peña Sáenz  marian.pena at ieo.es
     
 
 # Doctorates
