@@ -13,7 +13,7 @@ $ cat example.md
 
 $ cat custom.css
 td, th {
-    border: 0px solid grey
+    border: 1px solid white
 }
 $ markdown-pdf --css-path='custom.css' example.md
 
