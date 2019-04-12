@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-| ## Fish and plankton acoustics<br/> @ IEO Baleares (ACUSDEEP)         | ![useful image]({{ site.url }}/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)|
+| ** Fish and plankton acoustics<br/> @ IEO Baleares (ACUSDEEP)**         | ![useful image]({{ site.url }}/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)|
 
 
 
 
-## Fish and plankton acoustics group @ IEO Baleares (ACUSDEEP)
-
-![useful image]({{ site.url }}/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)
 
 "One of the more serious constraints in fisheries acoustics is that innovation has been suppressed in favor of standardization." (Holliday and Pieper, 1995).
 
