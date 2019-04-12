@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<table> <tr> <td>## Fish and plankton acoustics group at IEO Baleares (ACUSDEEP) </td> <td>![](/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg))</td> </tr> </table>
 
-
+## Fish and plankton acoustics group at IEO Baleares (ACUSDEEP)
 
 ![useful image]({{ site.url }}/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg
 
