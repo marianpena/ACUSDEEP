@@ -13,6 +13,7 @@ redirect_from:
 |<center><b>Fish and plankton acoustics</b></center><br/><center><b>@ IEO Baleares (ACUSDEEP)</b></center>| ![](/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)|
 
 
+|<center><b>Fish and plankton acoustics</b></center><br/><center><b>@ IEO Baleares (ACUSDEEP)</b></center>| <img style="float: right;" src="/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg">|
 
 
 
