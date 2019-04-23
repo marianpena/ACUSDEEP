@@ -36,11 +36,11 @@ Keywords: mesopelagic, bathypelagic, Myctophidae, Cyclothone spp, krill, decapod
   * Active-passive acoustics
 
 
-This will display the three images side by side if the images are not to wide.
+
 
 <p float="left">
   <img src="/images/LogoIEOgr.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="50"/>  
-  <img src="/images/logo_ministerio.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="200"/>  
+  <img src="/images/logo_ministerio.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="100"/>  
   <img src="/images/logo-feder-trans.png" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="50"/>
 </p>
 
