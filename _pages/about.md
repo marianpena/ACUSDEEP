@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<img src="/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="700"/>
+<img src="/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="600"/>
 # Fish and plankton acoustics @ IEO Baleares
 
 
@@ -37,5 +37,7 @@ Keywords: mesopelagic, bathypelagic, Myctophidae, Cyclothone spp, krill, decapod
 
 
 
-
+<img src="/images/LogoIEOgr.jpg.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="200"/>
+<img src="/images/logo_ministerio.jpg" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="200"/>
+<img src="/images/logo-feder-trans.png" alt="drawing" style="display:block; margin-left: auto; margin-right: auto;"  width="200"/>
 
