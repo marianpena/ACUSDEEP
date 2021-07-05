@@ -5,7 +5,7 @@ permalink: /publications/2021-01-04-cuantile
 venue: "Fisheries Research"
 excerpt: 
 date: 2021-01-04-
-paperDOI: 10.1016/j.marenvres.2019.104842
+paperDOI: https://doi.org/10.1016/j.fishres.2021.105949
 citation: 'Peña et al (2021). Full customization of color maps for fisheries acoustics: Visualizing every target. Fisheries Research. Volume 240, 105949,2021. https://doi.org/10.1016/j.fishres.2021.105949'
 ---
 
