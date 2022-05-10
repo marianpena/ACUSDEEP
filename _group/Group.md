@@ -15,8 +15,8 @@ Marián Peña Sáenz  (marian.pena at ieo.es)
 
 # Doctorates
 
-  * Beatriz Sobradillo (AZTI)
-  * Airam Sarmiento (ULPGC, FPI adscrita al COB)
+  * Beatriz Sobradillo (AZTI) 2016-2018
+  * Airam Sarmiento (ULPGC, FPI adscrita al COB) 2018-2023
     PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la     bomba biológica.’
 
 # Collaborations
@@ -35,5 +35,5 @@ Marián Peña Sáenz  (marian.pena at ieo.es)
 
 # Students
 
-  * Lou Andrès (ENSTA University, Brest)
-  * María Moyà (UIB University, Mallorca)
+  * Lou Andrès (ENSTA University, Brest) 2021
+  * María Moyà (UIB University, Mallorca) 2022
