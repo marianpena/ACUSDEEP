@@ -23,6 +23,8 @@ Marián Peña Sáenz  (marian.pena at ieo.es)
 
   * Enrique Nogueira (Investigador - C.O. Gijón - IEO)
   * Rafael González-Quirós (Investigador - C.O. Gijón - IEO)
+  * Patricia Reglero (Investigador - C.O. Baleares - IEO)
+  * Diego Álvarez (Investigador - C.O. Baleares - IEO)
   * Pedro Vélez (Investigador - C.O. Canarias - IEO)
   * Pilar Olivar (Investigadora - ICM/CSIC)
   * Santiago Hernández León (Investigador - ULPGC)
@@ -31,3 +33,7 @@ Marián Peña Sáenz  (marian.pena at ieo.es)
   * Ramón Miralles (Investigador - Unidad Mixta IEO-UPV)
   * Beatriz Mouriño (Investigadora - Vigo University)
 
+# Students
+
+  * Lou Andrès (ENSTA University, Brest)
+  * María Moyà (UIB University, Mallorca)
