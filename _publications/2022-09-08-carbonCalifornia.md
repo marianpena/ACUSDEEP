@@ -7,7 +7,7 @@ excerpt:
 date: 2022-09-08-
 paperDOI: https://doi.org/10.1016/j.pocean.2022.102894
 citation: 'Sarmiento-Lezcano et al (2022). Active flux seasonality of the small dominant migratory crustaceans and mesopelagic fishes in the Gulf of California during June and October. Progress In Oceanography. Volume 208:102894,2022. https://doi.org/10.1016/j.pocean.2022.102894
-
+---
 ## Highlights
 • Migrant biomass and respiratory flux were estimated in mesopelagic organisms.
 
