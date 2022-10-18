@@ -9,18 +9,6 @@ paperDOI: https://doi.org/10.1016/j.pocean.2022.102894
 citation: 'Sarmiento-Lezcano et al (2022). Active flux seasonality of the small dominant migratory crustaceans and mesopelagic fishes in the Gulf of California during June and October. Progress In Oceanography. Volume 208:102894,2022. https://doi.org/10.1016/j.pocean.2022.102894'
 ---
 
-## Highlights
-- Migrant biomass and respiratory flux were estimated in mesopelagic organisms.
-
-- The largest migrant biomass were mesopelagic fishes followed by decapods.
-
-- Fishes showed high values of respiratory flux at the centre-eastern coast of the gulf.
-
-- Midriff Islands region had one of the highest values of crustacean respiratory flux.
-
-- Micronekton respiratory flux was higher during June than during October.
-
-
 ## Abstract
 The biological carbon pump is the process that transports carbon vertically out of the mixed layer in the ocean. 
 Besides the sinking flux of organic particles, active flux due to the daily vertical migration of zooplankton and micronekton promotes 
@@ -37,3 +25,13 @@ changes in respiratory flux were observed for fishes (June: 6.1 ± 1.5 mg C·m�
 October: 0.7 ± 0.05 mg C·m−2·d−1). Respiratory flux estimation by crustaceans (decapods and euphausiids) and fishes together was 6.86 mg C·m−2·d−1 during June, 
 and 4.21 mg C·m−2·d−1 during October 2018, suggesting a functional role of this large micronektonic fauna in the biological carbon export in this region.
 
+## Highlights
+- Migrant biomass and respiratory flux were estimated in mesopelagic organisms.
+
+- The largest migrant biomass were mesopelagic fishes followed by decapods.
+
+- Fishes showed high values of respiratory flux at the centre-eastern coast of the gulf.
+
+- Midriff Islands region had one of the highest values of crustacean respiratory flux.
+
+- Micronekton respiratory flux was higher during June than during October.
