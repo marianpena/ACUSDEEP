@@ -25,33 +25,26 @@ Current projects
 ======
 
 # --------------------------------------------------------------
-MESOPELAGICOS: Estudio de especies meso- y batipelágicas. <br/>
+
+INTERCOONECTA-INVIPESCA (2022-2024)<br/>
+------
+MESOBALEAR: Estudio de especies meso- y batipelágicas en aguas de Baleares (2022-2023)<br/>
+------
+MESOPELAGICOS: Estudio de especies meso- y batipelágicas. (2021-)<br/>
 ------
 
-TUNIBAL: Ecología larvaria del atún en aguas de Baleares <br/>
-------
-
-Helgoland Tope Tagging Project - HTTP" (2017-2020) 
+TUNIBAL: Ecología larvaria del atún en aguas de Baleares (2019-) <br/>------
 ------
 
 DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
 ------
-
-[REMEDIOS](http://proyectoremedios.com/inicio/): RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS"
-----
-
-
-Bathypelagic: BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA 
+Bathypelagic: BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA  (2018-)
 ------
-
-JUVENA Juvenile anchovy survey in the Bay of Biscay
-------
-
 SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya): estructura Y rutas del carbono biogenico (CTM2013-45089-R)
 ------
 
 
-QUIETMED: A joint programme on underwater noise (D11) for the implementation of the Second Cycle of the MSFD in the Mediterranean Sea
+
 ------
 <br/>
 <br/>
@@ -62,6 +55,10 @@ Previous projects
 ======
 
 # --------------------------------------------------------------
+ * [REMEDIOS](http://proyectoremedios.com/inicio/): RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS"
+ * JUVENA Juvenile anchovy survey in the Bay of Biscay
+ * QUIETMED: A joint programme on underwater noise (D11) for the implementation of the Second Cycle of the MSFD in the Mediterranean Sea
+ * Helgoland Tope Tagging Project - HTTP" (2017-2020) 
  * MAFIA: Migrants and Active Flux In the Atlantic Ocean (MAFIA). CTM2012-39587-C04-04. 
  * IDEADOS: Estructura y dinámica del ecosistema bentopelágico de talud en dos zonas oligotróficas del Mediterráneo occidental: una
 aproximación multidisciplinar y a distintas escalas temporales en las Islas Baleares.  
