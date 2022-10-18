@@ -10,15 +10,15 @@ citation: 'Sarmiento-Lezcano et al (2022). Active flux seasonality of the small 
 ---
 
 ## Highlights
-• Migrant biomass and respiratory flux were estimated in mesopelagic organisms.
+- Migrant biomass and respiratory flux were estimated in mesopelagic organisms.
 
-• The largest migrant biomass were mesopelagic fishes followed by decapods.
+- The largest migrant biomass were mesopelagic fishes followed by decapods.
 
-• Fishes showed high values of respiratory flux at the centre-eastern coast of the gulf.
+- Fishes showed high values of respiratory flux at the centre-eastern coast of the gulf.
 
-• Midriff Islands region had one of the highest values of crustacean respiratory flux.
+- Midriff Islands region had one of the highest values of crustacean respiratory flux.
 
-• Micronekton respiratory flux was higher during June than during October.
+- Micronekton respiratory flux was higher during June than during October.
 
 
 ## Abstract
