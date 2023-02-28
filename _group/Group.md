@@ -10,7 +10,7 @@ venue: "Instituto Español de Oceanografía"
 
 # Principal researcher
 
-Marián Peña Sáenz  (marian.pena at ieo.es)
+Marián Peña Sáenz  (marian.pena at ieo.csic.es)
     
 
 # Doctorates
@@ -35,5 +35,7 @@ Marián Peña Sáenz  (marian.pena at ieo.es)
 
 # Students
 
-  * Lou Andrès (ENSTA University, Brest) 2021
-  * María Moyà (UIB University, Mallorca) 2022
+  * Lou Andrès (ENSTA University, Brest) Summer 2021. ERASMUS internship
+  * Léo Pham-Van (ENSTA University, Brest) Summer 2022. ERASMUS internship
+  * María Moyà (UIB University, Mallorca) 2022-2023. TFM
+  
