@@ -26,7 +26,7 @@ Current projects
 
 # --------------------------------------------------------------
 
-INTERCOONECTA-INVIPESCA (2022-2024)<br/>
+INTERCOONECTA-INVIPESCA-FORT (2022-2024)<br/>
 ------
 
 MESOBALEAR: Estudio de especies meso- y batipelágicas en aguas de Baleares (2022-2023)<br/>
@@ -38,8 +38,9 @@ MESOPELAGICOS: Estudio de especies meso- y batipelágicas. (2021-)<br/>
 TUNIBAL: Ecología larvaria del atún en aguas de Baleares (2019-) <br/>
 ------
 
-DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias <br/>
+BaleAtún <br/>
 ------
+
 
 Bathypelagic: BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA  (2018-)<br/>
 ------
@@ -55,6 +56,7 @@ Previous projects
 ======
 
 # --------------------------------------------------------------
+ * DeepCom: Comunidades biológicas de aguas profundas mesopelágicas de Canarias 
  * [REMEDIOS](http://proyectoremedios.com/inicio/): RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS"
  * JUVENA Juvenile anchovy survey in the Bay of Biscay
  * QUIETMED: A joint programme on underwater noise (D11) for the implementation of the Second Cycle of the MSFD in the Mediterranean Sea
