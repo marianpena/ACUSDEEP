@@ -6,7 +6,7 @@ venue: "Marine Environmental Research"
 excerpt: 
 date: 2023-04-01
 paperDOI: 10.3389/fmars.2023.1093982
-citation: 'Peña, M.; Moyà, M.; Carbonell, A. & González-Quirós, R. (2023). Acoustic characteristics of deep water micronektonic crustacean and their seasonal variation in the Bay of Biscay,  188, 105967 (2023). DOI: https://doi.org/10.1016/j.marenvres.2023.105967'
+citation: 'Peña, M.; Moyà, M.; Carbonell, A. & González-Quirós, R. (2023). Acoustic characteristics of deep water micronektonic crustacean and their seasonal variation in the Bay of Biscay, Marine Environmental Research, 188, 105967 (2023). DOI: https://doi.org/10.1016/j.marenvres.2023.105967'
 ---
 
 ## Abstract
