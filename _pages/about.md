@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ACUSDEEP is now part of the multicentre group 'Biodiversity and Ecology of Marine Ecosystems group (BEME)'. See more at the [website.](https://bemegroup.github.io/BEME/)
-![alt text](/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)
+
+
+![](/images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg)
 
 # Fish and plankton acoustics @ IEO Baleares
 
