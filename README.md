@@ -15,7 +15,5 @@ Publicaciones /blob/master/_pages/publications.md
 
 Proyectos /master/_pages/projects.md
 
-Training /blob/master/_pages/training.md
+News /_pages/year-archive.html
 
-Other activities 
-/blob/master/_pages/other.md
