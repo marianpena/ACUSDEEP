@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "News"
+    url: /news/
 
   - title: "Talks"
     url: /talks/    
@@ -9,7 +9,7 @@ main:
   - title: "Group"
     url: /group/Group.html    
         
-  - title: "News"
+  - title: "Publications"
     url: /year-archive/
     
   - title: "Projects"
