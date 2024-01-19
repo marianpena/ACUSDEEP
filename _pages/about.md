@@ -12,12 +12,9 @@ ACUSDEEP is now part of the multicentre group 'Biodiversity and Ecology of Marin
 
 <img src="images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" style="display:block; margin-left: auto; margin-right: auto" height="400" width="400"/>
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=acusdeep&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #acusdeep</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/acusdeep?ref_src=twsrc%5Etfw">Tweets by acusdeep</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Fish and plankton acoustics @ IEO Baleares
-
-
-
 
 
 "One of the more serious constraints in fisheries acoustics is that innovation has been suppressed in favor of standardization." (Holliday and Pieper, 1995).
