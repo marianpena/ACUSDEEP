@@ -15,5 +15,5 @@ Publicaciones /blob/master/_pages/year-archive.html
 
 Proyectos /master/_pages/projects.md
 
-News /_pages/year-archive.html
+News /_pages/news.html
 
