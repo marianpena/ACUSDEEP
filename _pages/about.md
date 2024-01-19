@@ -13,8 +13,8 @@ ACUSDEEP is now part of the multicentre group 'Biodiversity and Ecology of Marin
 <img src="images/centro-oceanografico-baleares-definicion-grupo-investigacion-acusdeep.jpg" style="display:block; margin-left: auto; margin-right: auto" height="400" width="400"/>
 
 <a class="twitter-timeline"
-  href="https://twitter.com/acusdeep">
-Tweets by @acusdeep
+  href="https://twitter.com/{acusdeep}">
+Tweets by @{acusdeep}
 </a>
 
 # Fish and plankton acoustics @ IEO Baleares
