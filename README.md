@@ -11,7 +11,7 @@ Página principal /blob/master/_pages/about.md
 
 Miembros del grupo en /blob/master/_group/Group.md
 
-Publicaciones /blob/master/_pages/publications.md
+Publicaciones /blob/master/_pages/year-archive.html
 
 Proyectos /master/_pages/projects.md
 
