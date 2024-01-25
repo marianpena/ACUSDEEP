@@ -3,9 +3,6 @@ title: "ACUSDEEP GROUP"
 collection: group
 type: " "
 permalink: /group/Group
-venue: "Instituto Español de Oceanografía"
-#date: " "
-#location: "City, Country"
 ---
 ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Marine Ecosystems group (BEME)’. See more at the website.
 
