@@ -2,10 +2,6 @@
 main:
   # - title: "News"
   #   url: /publications/
-
-    
-
-     
         
   - title: "Publications"
     url: /year-archive/
@@ -14,7 +10,7 @@ main:
     url: /projects/
   - title: "news"
     url: /news/
-- title: "Group"
+  - title: "Group"
     url: /group/Group.html 
   - title: "Talks"
     url: /talks/  
