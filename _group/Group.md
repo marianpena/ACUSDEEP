@@ -4,7 +4,7 @@ collection: group
 type: " "
 permalink: /group/Group
 ---
-ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Marine Ecosystems group (BEME)’. See more at the website.
+ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Marine Ecosystems group (BEME)’. See more at the [website](https://bemegroup.github.io/BEME/).
 
 # Principal researcher
 
