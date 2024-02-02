@@ -7,7 +7,7 @@ main:
     url: /year-archive/
     
   - title: "Projects"
-    url: /projects/
+    url: /projects/projects.html 
   - title: "news"
     url: /news/
   - title: "Group"
