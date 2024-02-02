@@ -7,39 +7,5 @@ redirect_from:
   
 ---
 
-        <meta charset="utf-8">
-        <style>
-            table {
-                border-collapse: collapse;
-                border: 2px black solid;
-                font: 12px sans-serif;
-            }
-
-            td {
-                border: 1px black solid;
-                padding: 5px;
-            }
-        </style>
- 
- 
-        <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
-        <script src="d3.min.js?v=3.2.8"></script>
-
-        <script type="text/javascript"charset="utf-8">
-            d3.text("PROYECTOS.csv", function(data) {
-                var parsedCSV = d3.csv.parseRows(data);
-
-                var container = d3.select("body")
-                    .append("table")
-
-                    .selectAll("tr")
-                        .data(parsedCSV).enter()
-                        .append("tr")
-
-                    .selectAll("td")
-                        .data(function(d) { return d; }).enter()
-                        .append("td")
-                        .text(function(d) { return d; });
-            });
-        </script>
+     <script>var txt ="";var Ary ="";$.get('PROYECTOS.csv', function (data) {    txt = data;    Ary = txt.split(",");    document.getElementById("Gain").innerHTML = "Gain: "+"$"+Ary[0];    document.getElementById("Maxrunup").innerHTML = "Max RunUp: "+"$"+Ary[1];    document.getElementById("Drawdown").innerHTML = "Drawdown: "+"$"+Ary[2];    document.getElementById("Acctsize").innerHTML = "Min Account Size: "+"$K"+Ary[3];});</script>
 
