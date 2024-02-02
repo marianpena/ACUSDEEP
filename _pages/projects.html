@@ -4,43 +4,284 @@ permalink: /projects/
 title: ""
 author_profile: true
 redirect_from:
-  
+#USAR https://www.convertcsv.com/csv-to-html.htm Y https://codepen.io/pablorgarcia/pen/ARdVgx  
 ---
 
+<h1><span class="blue">&lt;</span>PROJECTS<span class="blue">&gt;</h1>
 
-    <head>
-        <meta charset="utf-8">
-        <style>
-            table {
-                border-collapse: collapse;
-                border: 2px black solid;
-                font: 12px sans-serif;
-            }
+<table class="container">
+	</tr></thead>
 
-            td {
-                border: 1px black solid;
-                padding: 5px;
-            }
-        </style>
-  
-        <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
-        <script src="d3.min.js?v=3.2.8"></script>
-
-        <script type="text/javascript"charset="utf-8">
-            d3.text("PROYECTOS.csv", function(data) {
-                var parsedCSV = d3.csv.parseRows(data);
-
-                var container = d3.select("body")
-                    .append("table")
-
-                    .selectAll("tr")
-                        .data(parsedCSV).enter()
-                        .append("tr")
-
-                    .selectAll("td")
-                        .data(function(d) { return d; }).enter()
-                        .append("td")
-                        .text(function(d) { return d; });
-            });
-        </script>
+<thead><tr><th title="Field #1">Title</th>
+<th title="Field #2">Budget (€  )</th>
+<th title="Field #3">Funding</th>
+<th title="Field #4">Years</th>
+<th title="Field #5">IP</th>
+<th title="Field #6">Category</th>
+</tr></thead>
+<tbody><tr>
+<td>HACKATON 2023-2025: Fortalecimiento y mejora de la investigación científica y gestión de los recursos pesqueros en Iberoamérica en base al desarrollo tecnológico a través de la formación en lenguajes de programación de acceso libre y la creación de comunidades abiertas.</td>
+<td>88,090€</td>
+<td>AECID+CSIC </td>
+<td>2023-2025</td>
+<td>Marian Peña</td>
+<td>Dissemination</td>
+</tr>
+<tr>
+<td>MESOPELAGICOS: estudio de especies meso y batipelágicas en aguas del Mediterráneo, Golfo de Vizcaya, Islas Canarias y en general noroeste Atántico.</td>
+<td>*</td>
+<td>IEO</td>
+<td>2022-2025</td>
+<td>Marian Peña</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>INVIPESCA-AECID: Fortalecimiento y mejora de la gestión de los recursos pesqueros en Iberoamérica para un crecimiento económico sostenible de la región, basado en la investigación, la innovación y el desarrollo tecnológico a través de la Red INVIPESCA.</td>
+<td>78,090€</td>
+<td>AECID, CSIC</td>
+<td>2022-2024</td>
+<td>R. Petit</td>
+<td>Dissemination</td>
+</tr>
+<tr>
+<td>MESOBALEAR: implantación de estudios por métodos acústicos en el mar Balear.</td>
+<td>18,000€</td>
+<td>Acción especial, Govern Balear</td>
+<td>2022-2023</td>
+<td>Marian Peña</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>BALEATUN: Baleares, un enclave único para la sostenibilidad del Atún rojo: oceanografía, hábitats, supervivencia e impacto socio-ecológico de su recuperación. Projectes de recerca científica i tecnològica per al període</td>
+<td>64,900€</td>
+<td>Govern Balear</td>
+<td>2020-2024</td>
+<td>D. Alvarez</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>TUNIBAL: Campaña de oceanografia y larvas de tunidos alrededor de las Islas Baleares. Plan Nacional de Bases de datos.</td>
+<td>*</td>
+<td>Plan Nacional de datos</td>
+<td>2019-</td>
+<td>P. Reglero</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>DEEPCOM:  Comunidades biológicas de aguas profundas mesopelágicas de Canarias (CTM2017-88686-P)</td>
+<td>*</td>
+<td>Ministerio de Economía y Competitividad</td>
+<td>2017-2021</td>
+<td>N. Aguilar</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>REMEDIOS: RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS (CTM2016-75451-C2-1-R)L.</td>
+<td>133,000€</td>
+<td>Ministerio de Economía y Competitividad</td>
+<td>2017-2020</td>
+<td>B.</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>Bathypelagic: BIOMASA Y FLUJO ACTIVO EN LA ZONA BATIPELAGICA  CTM2016-78853-R.</td>
+<td>270,000€</td>
+<td>Ministerio de Economía y Competitividad</td>
+<td>2017-2019</td>
+<td>S. Hernández</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>QUIETMED  Joint programme on noise (D11) for the implementation of the Second Cycle of the MSFD in the MEDITERRANEAN SEAL</td>
+<td>783,879€</td>
+<td>Unión Europea</td>
+<td>2017-2019</td>
+<td> </td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>RAPROCAN</td>
+<td> </td>
+<td>IEO</td>
+<td>2016-2018</td>
+<td>P. Vélez</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>SCAPA:la red trofica plantonica en el mar Cantábrico (sur Del Golfo De Vizcaya): estructura Y rutas del carbono biogenico (CTM2013-45089-R)</td>
+<td>40,000€</td>
+<td>Plan nacional de I+D+i</td>
+<td>2015-2017.</td>
+<td>E. Nogueira</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>CHALLENGE:Ecosistemas pelagicos cambiantes desde la perspectiva de los depredadores: avanzando en los esfuerzos de conservacion en aguas del sur de Europa (CTM2013-47032-R).</td>
+<td>80,000€</td>
+<td>Plan nacional de I+D+i</td>
+<td>2015-2017.</td>
+<td>No</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>MESOBROAD: Study of micronecton and macrozooplankton with a broadband echosounder. </td>
+<td>6,700€</td>
+<td>ICES science fund</td>
+<td>2014-2016</td>
+<td>Marian Peña</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>MAFIA: Migrants and Active Flux In the Atlantic Ocean CTM2012-39587-C04</td>
+<td>250,000€</td>
+<td>Ministerio de Economía y Competitividad</td>
+<td>2013-2015</td>
+<td>S. Hernández</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>Equipamiento para el procesado de datos de la multihaz ME70 a bordo del Margalef (IEOC13-4E-1737)</td>
+<td>76,000€</td>
+<td>Subprograma Estatal De Infrestructuras Científicas Y Equipamiento</td>
+<td>2013-2014</td>
+<td>Marian Peña</td>
+<td>Equipment</td>
+</tr>
+<tr>
+<td>BALEARES: Ecología larvaria y procesos de reclutamiento de crustáceos decápodos, cefalópodos y peces teleósteos en el Mar Balear CTM 2009-07944 MAR.</td>
+<td>145,684€</td>
+<td>Ministerio de Economía y Competitividad</td>
+<td>2011-2013</td>
+<td>No</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>IDEADOS: Estructura y dinámica del ecosistema bentopelágico de talud en dos zonas oligotróficas del Mediterráneo occidental: una aproximación multidisciplinar y a distintas escalas temporales en las Islas Baleares.</td>
+<td>280,000.00€</td>
+<td>Comisión Interministerial de Ciencia y Tecnología (CICYT)</td>
+<td>2009-2012</td>
+<td>E. Massutí</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>PELCOSAT: Biología y dinámica poblacional de las especies de pequeños pelágicos costeros del Golfo de Cádiz (Subdivisión IXa ICES).</td>
+<td>*</td>
+<td>*</td>
+<td>2009-2010</td>
+<td> </td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>ECOANCHOA </td>
+<td>5,764,085€</td>
+<td>Gobiernos del Pais Vasco, Cantabria, Asturias y Galicia</td>
+<td>2008-2012</td>
+<td>Irigoien</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>DETAC: Desarrollo de Técnicas Acústicas para aplicación a pesquerías de pelágicos y otras especies marinas.</td>
+<td>88,886€</td>
+<td> </td>
+<td>2008-2011</td>
+<td>M. iglesias</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>Aplicación de ANN supervisadas y no supervisadas a los datos acústicos</td>
+<td>3,000€</td>
+<td>AZTI and U. Aegean</td>
+<td>2008-2009</td>
+<td>Marian Peña</td>
+<td>I+D+Ì</td>
+</tr>
+<tr>
+<td>JUVENA campaña acústica de juveniles de anchoa en el Golfo de Vizcaya.</td>
+<td> </td>
+<td>Gov. vasco</td>
+<td>2007-2020</td>
+<td>G. Boyra</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>PELAGICOS</td>
+<td>*</td>
+<td>Gobierno de Pais Vasco</td>
+<td>2007-2009</td>
+<td>A. Uriarte</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>UNCOVER: UNderstanding the mechanism of stock recovery.</td>
+<td>*</td>
+<td>Unión Europea</td>
+<td>2006-2010</td>
+<td>A. Uriarte</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>PELMED: Evaluación de los recursos pelágicos del Mediterráneo español.</td>
+<td>525,314.35€</td>
+<td>IEO</td>
+<td>2003-2008</td>
+<td>R. Abad</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>ARGELIA 2003: Evaluación de pequeños pelágicos en aguas Argelinas.</td>
+<td>*</td>
+<td>IEO</td>
+<td>2003-2004</td>
+<td>E. Massutí</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>Acousmed: Harmonisation of the acoustic data in the Mediterranean</td>
+<td>320,000€</td>
+<td>Unión europea, negociated procedure.</td>
+<td>2002-2006</td>
+<td>M. Gianoulaki</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>SIMFAMI: Species Identification Methods From Acoustic Multi-frecuency Information).</td>
+<td>1,020,462€</td>
+<td>Unión Europea</td>
+<td>2002-2005</td>
+<td>P. Fernandes</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>SARDYN: Sardine Dynamics And Stock Structure In The North-east Atlantic</td>
+<td>2,096,667€</td>
+<td>Unión Europea</td>
+<td>2002-2004</td>
+<td>Y. Stratoudakis</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>SIGNOISE: Intercalibración acústica de dos buques oceanográficos en el Golfo de Cádiz.</td>
+<td>1,495,804€</td>
+<td>Unión Europea</td>
+<td>2002-2003</td>
+<td>P. Carrera</td>
+<td>Equipment</td>
+</tr>
+<tr>
+<td>PELASSES: Direct abundance estimation and distribution of pelagic species in North East Atlantic Waters. Improving acoustic and daily egg production   methods for sardine and anchovy.</td>
+<td>*</td>
+<td>Unión Europea</td>
+<td>2000-2002</td>
+<td>P. Carrera</td>
+<td>Fisheries assessment</td>
+</tr>
+<tr>
+<td>APEMED: Estimación de índices de abundancia y variabilidad de poblaciones de pequeños pelágicos. Campaña de prospección acústica ECOMED.</td>
+<td>*</td>
+<td>IEO</td>
+<td>1999-2003</td>
+<td>R. Abad</td>
+<td>Fisheries assessment</td>
+</tr>
+</tbody></table>
 
