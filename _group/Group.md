@@ -35,5 +35,6 @@ Marián Peña Sáenz  (marian.pena at ieo.csic.es)
 
   * Lou Andrès (ENSTA University, Brest) Summer 2021. ERASMUS internship
   * Léo Pham-Van (ENSTA University, Brest) Summer 2022. ERASMUS internship
-  * María Moyà (UIB University, Mallorca) 2022-2023. TFM
+  * María Moyà (UIB University, Mallorca) 2022-2024. TFM
+  * Gaël Chauchadis (ENSTA University, Brest) Summer 2024. IsBlue internship
   
