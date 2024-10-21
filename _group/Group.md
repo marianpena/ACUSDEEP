@@ -13,12 +13,11 @@ Marián Peña Sáenz  (marian.pena at ieo.csic.es)
 
 # Doctorates
 
-  * 2024-2028 'TETRIS: digital Tools for massivE daTa pRocessing in FIsheries AcousticS: leveraging repository access and global inferences'
-  * Alamanellis-Zisimopoulos Alexandros 2024-2028 'Ecology and Distribution of Mesopelagic Fish in the Eastern Mediterranean'
-  * Beatriz Sobradillo (AZTI) 2016-2018
+  * 2024-2028 PhD:'TETRIS: digital Tools for massivE daTa pRocessing in FIsheries AcousticS: leveraging repository access and global inferences'
+  * Alexandros Alamanellis-Zisimopoulos 2024-2028 PhD: 'Ecology and Distribution of Mesopelagic Fish in the Eastern Mediterranean'  
   * Airam Sarmiento (ULPGC, FPI adscrita al COB) 2018-2023
     PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la     bomba biológica.’
-
+  * Beatriz Sobradillo (AZTI) 2016-2018
 # Students
 
   * Lou Andrès (ENSTA University, Brest) Summer 2021. ERASMUS internship
