@@ -14,9 +14,8 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
 
   
 # Past members
-* Airam Sarmiento (ULPGC, FPI adscrita al COB) 2018-2023
-PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la     bomba biológica.’
-* Beatriz Sobradillo (AZTI) 2016-2018
+* Airam Sarmiento 2018-2023 PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertical de los peces meso y batipelágicos, y su contribución a la bomba biológica.’
+* Beatriz Sobradillo (AZTI) 2016-2018 Fisheries acoustics in the BoB
 * Lou Andrès (ENSTA University, Brest) Summer 2021. ERASMUS internship
 * Léo Pham-Van (ENSTA University, Brest) Summer 2022. ERASMUS internship
 * María Moyà (UIB University, Mallorca) 2022-2024. TFM
@@ -30,6 +29,7 @@ PhD: ‘Análisis de las propiedades acústicas y pautas de distribución vertic
   * Carrie Wall (NOAA USA)
   * Héctor Villalobos (CICIMAR, México)
   * Jorge Cornejo (FishGlob, Chile)
+  * Laura Gómez (IMEDEA, Spain)
   * Enrique Nogueira (Investigador - C.O. Gijón - IEO)
   * Rafael González-Quirós (Investigador - C.O. Gijón - IEO)
   * Patricia Reglero (Investigador - C.O. Baleares - IEO)
