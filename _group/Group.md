@@ -29,6 +29,8 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
   
 # Collaborations
 
+  * Eva García Seoane
+  * Alejandro Ariza
   * Emilio Mayorga (U. Washington in Seattle, USA)
   * Héctor Villalobos (CICIMAR, México)
   * Jorge Cornejo (FishGlob, Chile)
