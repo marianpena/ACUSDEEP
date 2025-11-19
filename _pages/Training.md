@@ -4,7 +4,7 @@ title: "TRAINING ACTIVITIES"
 permalink: /training/
 author_profile: true
 ---
-(under construction)
+
 ## PhD, TFM, TFG 
 - Alexandros Alamanellis  (2025-, Univ. HCMR/U. UOA) at COB
 
@@ -16,14 +16,13 @@ author_profile: true
 - Gaétan deKat (2025, ENSTA Bretagne) at COB
 - Geoffroy Tourneux (2025, ENSTA Bretagne) at COB
 
-## Courses offered
+## Courses organized
 
  **Oceanhackweek en español (OHWe)** liderado por Marian Peña del COB:
 
  
 | Año|     Fechas |  Actividad| Proyecto| Financiación|
 | ------|  --------------- | ------------------------| ----------| ----------| 
-| 2022 | 15 al 19 de agosto  |[OceanHackWeek 2022 en Español](https://intercoonecta.github.io/ohw22-espanol.html)| ||
 | 2022 | 28 de noviembre al 09 de diciembre  |[Aula invertida 2022](https://github.com/Intercoonecta/Aula-invertida/blob/main/Indice.md)| INVIPESCA-FORT|CSIC+AECID|
 | 2023 | 27 de febrero al 3 de marzo    | [Hackaton 2023](https://intercoonecta.github.io/ohw2023.html)| INVIPESCA-FORT|CSIC+AECID|
 | 2024 |   21 y 22 de mayo    | Webinario| HACKATONES 2023-2025| CSIC+AECID|
@@ -38,11 +37,7 @@ author_profile: true
 ##  Past members
 
 - Airam Nauzet Sarmiento Lezcano (PhD 2023, ULPGC) at COB
-- María Moyà (Univ. Baleares) at COB
+- María Moyà (TFM, Univ. Baleares) at COB
 
 
 
-
-
-Current projects
-======
