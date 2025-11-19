@@ -10,6 +10,10 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
 
 * Marián Peña Sáenz  (marian.pena at ieo.csic.es) Principal researcher
 * Alexandros Alamanellis-Zisimopoulos 2024-2028 PhD: 'Ecology and Distribution of Mesopelagic Fish in the Eastern Mediterranean'
+* Members of the  Mediterranean mesopelagic group:
+  - Fabio Campanella
+  - Konstantinos Tsagarakis
+  - Aris Kapelonis  
 
   
 # Past members
