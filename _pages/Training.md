@@ -9,7 +9,7 @@ author_profile: true
 - Alexandros Alamanellis  (2025-, Univ. HCMR/U. UOA) at COB
 
 
-##    Short stays
+##    Short stays (3 months)
 - Lou Andrès (ERASMUS 2021, ENSTA Bretagne) at COB
 - Léo Pham-Van (ERASMUS 2022, ENSTA Bretagne) at COB
 - Gaël Chauchadis (2024, ENSTA Bretagne) at COB
