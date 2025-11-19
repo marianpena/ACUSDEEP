@@ -9,7 +9,6 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
 # Current members
 
 * Marián Peña Sáenz  (marian.pena at ieo.csic.es) Principal researcher
-* 2024-2028 PhD:'TETRIS: digital Tools for massivE daTa pRocessing in FIsheries AcousticS: leveraging repository access and global inferences'
 * Alexandros Alamanellis-Zisimopoulos 2024-2028 PhD: 'Ecology and Distribution of Mesopelagic Fish in the Eastern Mediterranean'
 
   
@@ -20,17 +19,16 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
 * Léo Pham-Van (ENSTA University, Brest) Summer 2022. ERASMUS internship
 * María Moyà (UIB University, Mallorca) 2022-2024. TFM
 * Gaël Chauchadis (ENSTA University, Brest) Summer 2024. IsBlue internship
+* Gaétan deKat (Summer 2025, ENSTA Bretagne). Erasmus internship
+* Geoffroy Tourneux (Summer 2025, ENSTA Bretagne). Erasmus internship
 
   
 # Collaborations
 
   * Emilio Mayorga (U. Washington in Seattle, USA)
-  * Wu-Jung Lee (U. Washington in Seattle USA)
-  * Carrie Wall (NOAA USA)
   * Héctor Villalobos (CICIMAR, México)
   * Jorge Cornejo (FishGlob, Chile)
   * Laura Gómez (IMEDEA, Spain)
-  * Enrique Nogueira (Investigador - C.O. Gijón - IEO)
   * Rafael González-Quirós (Investigador - C.O. Gijón - IEO)
   * Patricia Reglero (Investigador - C.O. Baleares - IEO)
   * Diego Álvarez (Investigador - C.O. Baleares - IEO)
@@ -41,6 +39,9 @@ ACUSDEEP is now part of the multicentre group ‘Biodiversity and Ecology of Mar
   * Víctor Espinosa (Investigador - Unidad Mixta IEO-UPV)
   * Ramón Miralles (Investigador - Unidad Mixta IEO-UPV)
   * Beatriz Mouriño (Investigadora - Vigo University)
+  * Wu-Jung Lee (U. Washington in Seattle USA)
+  * Carrie Wall (NOAA USA)
+  * Enrique Nogueira (Investigador - C.O. Gijón - IEO)
 
 
   
