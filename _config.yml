@@ -243,6 +243,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _training
+  - scope:
+      path: ""
+      type: training
+    values:
+      layout: training
+      author_profile: true
+      share: true
   # _news
   - scope:
       path: ""
